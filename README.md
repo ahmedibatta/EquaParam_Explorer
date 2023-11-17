@@ -1,1 +1,1 @@
-# -EquaParam-Explorer-PK-PD-QSP-Analysis
+# EquaParam-Explorer-PK-PD-QSP-Analysis
