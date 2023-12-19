@@ -1,4 +1,4 @@
-# EquaParam-Explorer-PK-PD-QSP-Analysis 
+# EquaParam-Explorer
 
 Working with large models containing hundreds of parameters and equations can be challenging, especially when trying to identify all related and dependent equations.
 
