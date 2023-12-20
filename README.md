@@ -12,4 +12,9 @@ To address this challenge, I developed EquaParam-Explorer. This tool is designed
 ## Output
 The output includes the selected parameter or variable, its meaning, and all equations containing this parameter or variable. 
 This comprehensive display facilitates a deeper understanding and more effective manipulation and changes of the model.  
+
+![EquaParam-Explorer Screenshot](images/search%20for%20specific%20parameter.png)
+
+![EquaParam-Explorer Screenshot](images/search%20with%20part%20of%20the%20parameter's%20name.png)
+
  
